@@ -1,10 +1,10 @@
-package api;
+package xyz.why.chatbot.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @Description:
+ * @Description: 服务启动
  * @Title: ApiApplication
  * @Author WHY
  * @Date: 2023/3/17 23:13

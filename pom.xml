@@ -72,12 +72,12 @@
                 <artifactId>httpmime</artifactId>
                 <version>4.5.10</version>
             </dependency>
-<!--            <dependency>-->
-<!--                <groupId>org.testng</groupId>-->
-<!--                <artifactId>testng</artifactId>-->
-<!--                <version>RELEASE</version>-->
-<!--                <scope>test</scope>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>org.testng</groupId>
+                <artifactId>testng</artifactId>
+                <version>7.7.0</version>
+                <scope>test</scope>
+            </dependency>
             <!-- https://mvnrepository.com/artifact/net.sf.json-lib/json-lib -->
             <dependency>
                 <groupId>net.sf.json-lib</groupId>

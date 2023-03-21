@@ -2,6 +2,7 @@ package xyz.why.chatbot.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.stereotype.Service;
 
 /**
  * @Description: 服务启动

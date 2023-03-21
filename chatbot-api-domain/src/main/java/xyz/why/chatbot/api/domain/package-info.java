@@ -1,1 +1,0 @@
-package xyz.why.chatbot.api.domain;
